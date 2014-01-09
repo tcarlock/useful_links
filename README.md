@@ -1,5 +1,4 @@
 Angular
---
 * http://www.devign.me/angular-dot-js-coffeescript-controller-base-class/
 
 JavaScript Promises
