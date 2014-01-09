@@ -15,7 +15,8 @@ MicroServices Architecture
 * http://www.richardrodger.com/monolithic-nodejs
 
 
-Learning Resources
+General Learning Resources
+* http://learnist-tech-talks.herokuapp.com
 * http://egghead.io/
 * http://pluralsight.com/training
 * https://www.udacity.com/
